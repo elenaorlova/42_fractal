@@ -2,13 +2,19 @@
 
 In mathematics, a fractal is a subset of a Euclidean space for which the Hausdorff dimension strictly exceeds the topological dimension.
 
+## Pictures
+
+![Julia](pictures/Julia.png)
+![Mandelbrot](pictures/Mandelbrot.png)
+![Ikido](pictures/Ikido.png)
+![Mandelbulb](pictures/Mandelbulb.png)
+![Tetrahedron](pictures/Tetrahedron.png)
+
 ## Features
 
 - 2D Fractals
 - 3D Fractals (Using Ray Marching)
 - OpenCl
-
-![Julia](pictures/Julia.png)
 
 ## Compilation
 
