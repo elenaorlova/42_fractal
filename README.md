@@ -21,19 +21,22 @@ make
 ## Usage
 
 Buttons:
-```python
-3 - 
-4 -
-5 -
-6 -
-7 -
+```bash
+Use scroll to make picture bigger or smaller
+Press 'P' to change colors
+
+8 - 2D Julia (Press 'C' and move mouse to change)
+9 - 2D Mandelbrot
+0 - Ikido (Press 'Q' or 'E' to move)
 ```
 
 Be careful, they can kill your computer:
-```python
-8 -
-9 -
-0 -
+```bash
+2 - Box
+4 - Tetrahedron
+5 - 3D Mandelbrot
+6 - Mandelbulb
+7 - 3D Julia
 ```
 
 ## Additional information
