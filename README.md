@@ -2,6 +2,10 @@
 
 In mathematics, a fractal is a subset of a Euclidean space for which the Hausdorff dimension strictly exceeds the topological dimension.
 
+## Pictures
+
+![Julia](Pictures/Screen Shot 2019-07-10 at 12.42.40.png)
+
 ## Features
 
 - 2D Fractals
