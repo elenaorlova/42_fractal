@@ -21,7 +21,7 @@ make
 ## Usage
 
 Buttons:
-```python
+```bash
 Use scroll to make picture bigger or smaller
 Press 'P' to change colors
 
@@ -31,7 +31,7 @@ Press 'P' to change colors
 ```
 
 Be careful, they can kill your computer:
-```python
+```bash
 2 - Box
 4 - Tetrahedron
 5 - 3D Mandelbrot
