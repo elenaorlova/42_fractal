@@ -8,6 +8,9 @@ In mathematics, a fractal is a subset of a Euclidean space for which the Hausdor
 - 3D Fractals (Using Ray Marching)
 - OpenCl
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ## Compilation
 
 Use Makefile to run the project.
