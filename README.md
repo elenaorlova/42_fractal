@@ -20,12 +20,20 @@ make
 
 ## Usage
 
+Buttons:
 ```python
-import foobar
+3 - 
+4 -
+5 -
+6 -
+7 -
+```
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+Be careful, they can kill your computer:
+```python
+8 -
+9 -
+0 -
 ```
 
 ## Additional information
