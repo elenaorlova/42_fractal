@@ -4,10 +4,19 @@ In mathematics, a fractal is a subset of a Euclidean space for which the Hausdor
 
 ## Pictures
 
+Julia:
 ![Julia](pictures/Julia.png)
+
+Mandelbrot:
 ![Mandelbrot](pictures/Mandelbrot.png)
+
+Ikido:
 ![Ikido](pictures/Ikido.png)
+
+Mandelbulb:
 ![Mandelbulb](pictures/Mandelbulb.png)
+
+Tetrahedron:
 ![Tetrahedron](pictures/Tetrahedron.png)
 
 ## Features
