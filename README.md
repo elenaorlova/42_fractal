@@ -30,9 +30,9 @@ Tetrahedron:
 Use Makefile to run the project.
 
 ```bash
-make
+$> make
 
-./fractol
+$> ./fractol
 ```
 
 ## Usage
